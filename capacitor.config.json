@@ -1,0 +1,6 @@
+{
+  "appId": "com.diario.notes",
+  "appName": "Diario",
+  "webDir": "dist",
+  "server": { "androidScheme": "https" }
+}
